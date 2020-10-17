@@ -8,7 +8,7 @@ function boeing() {
   imgEl.src = "https://cdn.glitch.com/6e9bafd6-d9c2-456e-8a94-c4b67212323a%2Fthumbnails%2F3570e6f3-7277-4bc8-9574-39a0b0fbf5cb.image.png?1602773394944";
 }
 
-function airbus1() {
+function newPlane() {
   if /*a350 image 2*/(imgEl.src === "https://cdn.glitch.com/6e9bafd6-d9c2-456e-8a94-c4b67212323a%2Fthumbnails%2FA350_First_Flight_-_Low_pass.jpg?1602772396221") {
     imgEl.src = "https://cdn.glitch.com/6e9bafd6-d9c2-456e-8a94-c4b67212323a%2F3e050ad1-bffc-454c-a2b2-6f5b6c0c30a5.image.png?v=1602773200243";
   } else if /*a350 image 3*/(imgEl.src === "https://cdn.glitch.com/6e9bafd6-d9c2-456e-8a94-c4b67212323a%2F3e050ad1-bffc-454c-a2b2-6f5b6c0c30a5.image.png?v=1602773200243") {
